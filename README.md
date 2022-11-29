@@ -1,4 +1,5 @@
 # piano
+<p>This is a practice project from freecode camp . Built using HTML and CSS</p>
 
 <h2>Demo screen shot</h2>
 
